@@ -1,0 +1,79 @@
+Extracted Questions from the Document:
+
+1. Question 1:
+   - Language: L1 = { a^n b a^{2n} | n ≥ 0 }
+   - Task: Decompose w = a^p b a^{2p} into xyz and show xy^i z ∉ L1 for some i.
+
+2. Question 2:
+   - Language: L2 = { a^i b^j a^k | k > i + j }
+   - Task: Decompose w = a^p b^p a^{2p+1} and show xy^i z ∉ L2 for some i.
+
+3. Question 3:
+   - Language: L3 = { a^i b^j | j = i or j = 2 }
+   - Task: Decompose w = a^P b^{2P} and show xy^i z ∉ L3 for some i.
+
+4. Question 4:
+   - Language: L4 = { a^i b^j | j is a multiple of i }
+   - Task: Decompose w = a^p b^{p^2} and show xy^i z ∉ L4 for some i.
+
+5. Question 5:
+   - Language: L5 = { x ∈ { a, b }* | n_a(x) < 2n_b(x) }
+   - Task: Decompose w = a^p b^p and show xy^i z ∉ L5 for some i.
+
+7. Question 7:
+   - Language: L7 = { a^p b a^p b }
+   - Task: Decompose w = a^p b a^p b and show xy^i z ∉ L7 for some i.
+
+8. Question 8:
+   - Language: L8 = { x y | |x| = |y| }
+   - Task: Decompose w = a^p b^p and show xy^i z ∉ L8 for some i.
+
+9. Question 9:
+   - Language: L9 = { x ∈ { a, b }* | n_a(x) = n_b(x) }
+   - Task: Decompose w = a^p b^p and show xy^i z ∉ L9 for some i.
+
+10. Question 10:
+    - Language: L10 = { w ∈ { a, b }* | w # w1 }
+    - Task: Decompose w = a^p b # a^p b and show xy^i z ∉ L10 for some i.
+
+11. Question 11:
+    - Language: L11 = { x ∈ X^R | x ∈ { a, b }* }
+    - Task: Decompose w = a^p b c b a^p and show xy^i z ∉ L11 for some i.
+
+12. Question 12:
+    - Language: L12 = { w w^R | w ∈ { a, b }* }
+    - Task: Decompose w = a^p b a^p and show xy^i z ∉ L12 for some i.
+
+
+Natural Numbers (ℕ)
+ℕ = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, ...}
+
+Whole Numbers (W)
+W = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, ...}
+
+Prime Numbers (ℙ)
+ℙ = {2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, ...}
+
+Composite Numbers
+{4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20, 21, 22, 24, 25, 26, 27, 28, 30, 32, 33, 34, 35, 36, 38, ...}
+
+Integers (ℤ)
+ℤ = {..., -3, -2, -1, 0, 1, 2, 3, ...}
+
+Even Numbers
+{..., -4, -2, 0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, ...}
+
+Odd Numbers
+{..., -3, -1, 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, ...}
+
+Perfect Numbers
+{6, 28, 496, 8128, 33550336, 8589869056, 137438691328, ...}
+
+Rational Numbers (ℚ)
+ℚ = {..., -½, -¼, 0, ¼, ½, ¾, 1, 1½, 2, ...}
+
+Irrational Numbers
+{√2, √3, √5, π, e, φ, ...}
+
+Real Numbers (ℝ)
+ℝ = ℚ ∪ {√2, π, e, ...}
