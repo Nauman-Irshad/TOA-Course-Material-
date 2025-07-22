@@ -1,0 +1,11 @@
+Hope you are doing well. 
+Our slybuss for Final exam
+
+1- DFA and NFA
+2- DFA minimization dry run done
+3- NFA Null to NFA dru run done
+4- CFG  DONE
+5- PDA (with Dry run) dru run done
+6- Turing Machine (with dry run) DONE
+
+INTRODUCTION TO LANAGAGEE AND THE THOERY OF COMPUTATION FOUTH EDITION SOLUTUONS KEY JOHN S MARTIN
